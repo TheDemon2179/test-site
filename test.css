@@ -135,8 +135,6 @@ body {
   }
 
 
-
-
 nav li {
   width: 240px;
   display: inline-block;
@@ -144,33 +142,7 @@ nav li {
   margin: 50px;
 }
 
-.Vases{
-  margin: 20px;
-  text-align: center;
-}
-
-.Lampades{
-  margin: 20px;
-  text-align: center;
-}
-
-.Sculpture{
-  margin: 20px;
-  text-align: center;
-  align-items: center;
-}
-
-.About{
-  margin: 20px;
-  text-align: center;
-}
-
-.TermofService{
-  margin: 20px;
-  text-align: center;
-}
-
-.Contact{
+.Vases, .Lampades, .Sculpture, .About, .TermofService, .Contact{
   margin: 20px;
   text-align: center;
 }
